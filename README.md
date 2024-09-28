@@ -24,6 +24,8 @@
 
 ```
 ### Output:
+![Screenshot 2024-09-28 133026](https://github.com/user-attachments/assets/5ed7a5ca-5c68-483e-94c2-831f184246b0)
+
 
 ### Visualization:
 ```python
@@ -44,6 +46,8 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
+![Screenshot 2024-09-28 133040](https://github.com/user-attachments/assets/5c8ab83e-62de-473d-bd57-8ce6a31b3714)
 
 
 ### Result:
+Thus the cluster and visitor segmentation for navigation patterns was implemented successfully in python.
